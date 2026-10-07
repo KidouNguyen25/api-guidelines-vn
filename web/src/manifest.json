@@ -1,0 +1,251 @@
+[
+ {
+  "group": "overview",
+  "path": "README.md",
+  "vi": "Giới thiệu",
+  "en": "Microsoft REST API Guidelines",
+  "id": "readme"
+ },
+ {
+  "group": "overview",
+  "path": "Guidelines.md",
+  "vi": "Thông báo cho người đọc",
+  "en": "Notice to readers",
+  "id": "guidelines"
+ },
+ {
+  "group": "azure",
+  "path": "azure/README.md",
+  "vi": "Hướng dẫn REST API của Azure",
+  "en": "Azure REST API Guidance",
+  "id": "azure-readme"
+ },
+ {
+  "group": "azure",
+  "path": "azure/ConsiderationsForServiceDesign.md",
+  "vi": "Cân nhắc khi thiết kế dịch vụ",
+  "en": "Considerations for Service Design",
+  "id": "azure-considerationsforservicedesign"
+ },
+ {
+  "group": "azure",
+  "path": "azure/Guidelines.md",
+  "vi": "Hướng dẫn REST API của Microsoft Azure",
+  "en": "Microsoft Azure REST API Guidelines",
+  "id": "azure-guidelines"
+ },
+ {
+  "group": "azure",
+  "path": "azure/VersioningGuidelines.md",
+  "vi": "Hướng dẫn đánh phiên bản của Azure",
+  "en": "Azure Versioning Guidelines",
+  "id": "azure-versioningguidelines"
+ },
+ {
+  "group": "graph",
+  "subgroup": "guide",
+  "path": "graph/GuidelinesGraph.md",
+  "vi": "Hướng dẫn REST API của Microsoft Graph",
+  "en": "Microsoft Graph REST API Guidelines",
+  "id": "graph-guidelinesgraph"
+ },
+ {
+  "group": "graph",
+  "subgroup": "articles",
+  "path": "graph/articles/naming.md",
+  "vi": "Đặt tên",
+  "en": "Naming",
+  "id": "graph-articles-naming"
+ },
+ {
+  "group": "graph",
+  "subgroup": "articles",
+  "path": "graph/articles/collections.md",
+  "vi": "Collection",
+  "en": "Collections",
+  "id": "graph-articles-collections"
+ },
+ {
+  "group": "graph",
+  "subgroup": "articles",
+  "path": "graph/articles/filter-as-segment.md",
+  "vi": "Filter dưới dạng segment",
+  "en": "Filter as segment",
+  "id": "graph-articles-filter-as-segment"
+ },
+ {
+  "group": "graph",
+  "subgroup": "articles",
+  "path": "graph/articles/nullable.md",
+  "vi": "Thuộc tính nullable",
+  "en": "Nullable Properties",
+  "id": "graph-articles-nullable"
+ },
+ {
+  "group": "graph",
+  "subgroup": "articles",
+  "path": "graph/articles/errorResponses.md",
+  "vi": "Phản hồi lỗi",
+  "en": "Error condition responses",
+  "id": "graph-articles-errorresponses"
+ },
+ {
+  "group": "graph",
+  "subgroup": "articles",
+  "path": "graph/articles/coreTypes.md",
+  "vi": "Kiểu cốt lõi",
+  "en": "Core Types",
+  "id": "graph-articles-coretypes"
+ },
+ {
+  "group": "graph",
+  "subgroup": "articles",
+  "path": "graph/articles/deprecation.md",
+  "vi": "Hướng dẫn ngừng hỗ trợ",
+  "en": "Deprecation guidelines",
+  "id": "graph-articles-deprecation"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/alternate-key.md",
+  "vi": "Khóa thay thế",
+  "en": "Alternate key",
+  "id": "graph-patterns-alternate-key"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/change-tracking.md",
+  "vi": "Theo dõi thay đổi",
+  "en": "Change tracking",
+  "id": "graph-patterns-change-tracking"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/default-properties.md",
+  "vi": "Thuộc tính mặc định",
+  "en": "Default properties",
+  "id": "graph-patterns-default-properties"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/dictionary.md",
+  "vi": "Dictionary",
+  "en": "Dictionary",
+  "id": "graph-patterns-dictionary"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/dictionary-client-guidance.md",
+  "vi": "Kiểu dictionary phía client",
+  "en": "Dictionary types",
+  "id": "graph-patterns-dictionary-client-guidance"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/enums.md",
+  "vi": "Enum",
+  "en": "Enums",
+  "id": "graph-patterns-enums"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/evolvable-enums.md",
+  "vi": "Enum có thể mở rộng",
+  "en": "Evolvable enums",
+  "id": "graph-patterns-evolvable-enums"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/facets.md",
+  "vi": "Facet",
+  "en": "Facets",
+  "id": "graph-patterns-facets"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/flat-bag.md",
+  "vi": "Túi thuộc tính phẳng",
+  "en": "Flat bag of properties",
+  "id": "graph-patterns-flat-bag"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/long-running-operations.md",
+  "vi": "Thao tác chạy lâu",
+  "en": "Long running operations",
+  "id": "graph-patterns-long-running-operations"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/namespace.md",
+  "vi": "Namespace",
+  "en": "Namespace",
+  "id": "graph-patterns-namespace"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/navigation-property.md",
+  "vi": "Navigation property",
+  "en": "Navigation Property",
+  "id": "graph-patterns-navigation-property"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/operations.md",
+  "vi": "Thao tác",
+  "en": "Operations",
+  "id": "graph-patterns-operations"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/subsets.md",
+  "vi": "Mô hình hóa tập con của collection",
+  "en": "Modeling collection subsets",
+  "id": "graph-patterns-subsets"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/subtypes.md",
+  "vi": "Hệ thống phân cấp kiểu",
+  "en": "Type hierarchy",
+  "id": "graph-patterns-subtypes"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/upsert.md",
+  "vi": "Upsert",
+  "en": "Upsert",
+  "id": "graph-patterns-upsert"
+ },
+ {
+  "group": "graph",
+  "subgroup": "patterns",
+  "path": "graph/patterns/viewpoint.md",
+  "vi": "Viewpoint",
+  "en": "Viewpoint",
+  "id": "graph-patterns-viewpoint"
+ },
+ {
+  "group": "archive",
+  "path": "graph/Guidelines-deprecated.md",
+  "vi": "Hướng dẫn REST API của Microsoft (đã ngừng)",
+  "en": "Microsoft REST API Guidelines (deprecated)",
+  "id": "graph-guidelines-deprecated"
+ }
+]

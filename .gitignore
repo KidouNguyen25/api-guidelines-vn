@@ -1,0 +1,8 @@
+node_modules/
+web/dist/
+web/src/generated/
+.translation-models/
+scripts/.venv/
+.claude/
+.codex/
+.gemini/

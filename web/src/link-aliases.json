@@ -1,0 +1,5 @@
+{
+  "graph/patterns/longRunningOperations.md": "graph/patterns/long-running-operations.md",
+  "graph/patterns/patterns/evolvable-enums.md": "graph/patterns/evolvable-enums.md",
+  "graph/deprecation.md": "graph/articles/deprecation.md"
+}
