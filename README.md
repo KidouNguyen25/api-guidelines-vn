@@ -1,11 +1,16 @@
 # Microsoft REST API Guidelines — bản dịch tiếng Việt
 
-Trang tra cứu tĩnh bằng tiếng Việt, dịch từ Microsoft REST API Guidelines. Repo Microsoft được clone nguyên trạng vào `source/`. Ứng dụng nằm trong `web/`.
+Trang tra cứu tĩnh bằng tiếng Việt, dịch từ Microsoft REST API Guidelines. Repo Microsoft nằm nguyên trạng trong `source/`. Ứng dụng nằm trong `web/`.
+
+Trang đang chạy tại <https://kidounguyen25.github.io/api-guidelines-vn/>, tự deploy bằng GitHub Pages mỗi lần push lên `main`.
 
 ## Chạy local
 
+`source/` là git submodule trỏ tới microsoft/api-guidelines, nhánh `vNext`. Clone kèm submodule:
+
 ```powershell
-cd web
+git clone --recurse-submodules https://github.com/KidouNguyen25/api-guidelines-vn.git
+cd api-guidelines-vn/web
 npm install
 npm run dev
 ```
